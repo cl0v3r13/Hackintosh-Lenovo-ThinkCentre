@@ -12,9 +12,11 @@
 </ul>
 
 <h2>Working</h2>
-Wi-Fi and BlueTooth
-Ethernet
-IGPU
-Audio
-USB 3.0 & 2.0 Map 
-iServices
+<ul>
+<li>Wi-Fi and BlueTooth</li>
+<li>Ethernet</li>
+<li>IGPU</li>
+<li>Audio</li>
+<li>USB 3.0 & 2.0 Map </li>
+<li>iServices</li>
+</ul>
