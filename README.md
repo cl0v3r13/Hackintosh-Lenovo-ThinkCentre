@@ -2,12 +2,12 @@
 
 <h1>Lenovo ThinkCentre M83</h1>
 <h2>Specs</h2>
-CPU: Intel Core i7-4790K
-IGPU: Intel HD 4600
-RAM: 16GB DDR3
-Audio: Realteck ALC 662
-Ethernet: Intel I217-LM
-Wi-Fi: Intel AX200
+<il>CPU: Intel Core i7-4790K</il>
+<il>IGPU: Intel HD 4600</il>
+<il>RAM: 16GB DDR3</il>
+<il>Audio: Realteck ALC 662</il>
+<il>Ethernet: Intel I217-LM</il>
+<il>Wi-Fi: Intel AX200</il>
 
 <h2>Working</h2>
 Wi-Fi and BlueTooth
