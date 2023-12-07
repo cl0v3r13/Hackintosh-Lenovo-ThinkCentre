@@ -20,3 +20,5 @@
 <li>USB 3.0 & 2.0 Map </li>
 <li>iServices</li>
 </ul>
+
+<h3>NOTE: To get apple services to work, follow the <a href="https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html">opencore guide</a> for this process.  </h3>
